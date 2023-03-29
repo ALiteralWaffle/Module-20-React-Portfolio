@@ -12,7 +12,7 @@ return(
                 <a href="https://www.linkedin.com/in/ethan-alexander-20111b216/"><img src="https://img.icons8.com/color/48/000000/linkedin-2.png" alt="Ethan LinkedIn"/></a>
                 </p>
                 <p>
-                Download <a href="ADD RESUME PDF" class="link">resume</a>
+                Download <a href="https://github.com/ALiteralWaffle/Module-20-React-Portfolio/blob/main/src/assets/Ethan-Alexander-Resume.docx" class="link">resume</a>
                 <br></br>
                 </p>
             </div>
